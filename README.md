@@ -81,6 +81,7 @@ https://www.bilibili.com/video/BV1mW421X7jg/<br>
 
 1.官网：https://www.cardinal-agi.com/<br>
 2.效果演示：https://www.bilibili.com/video/BV18ERbBNENp/<br>
+3.测试Q群：104716484<br>
 
 <img src="docs/images/readme-cardinal-ai.png" alt="Cardinal AI 可用于 3D 可交互内容生成的工作流展示" width="100%">
 
