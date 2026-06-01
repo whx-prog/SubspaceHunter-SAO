@@ -77,10 +77,15 @@ https://www.bilibili.com/video/BV1mW421X7jg/<br>
 3.载资产Unitypackage包，链接: https://pan.baidu.com/s/15FRPMi91qJzsarMVTewV6g?pwd=bx4w 提取码: bx4w <br>
 4.将unitypackage导入项目<br>
 
+## 由Hexin Wang 创立的SpatialXR社区提供免费的VR/MR开发教程
+
+https://www.bilibili.com/video/BV17KG46TEw2/
+
 ## Cardinal AI | 世界模型驱动的3D可交互内容生成Agent
 
 1.官网：https://www.cardinal-agi.com/<br>
 2.效果演示：https://www.bilibili.com/video/BV18ERbBNENp/<br>
+3.测试Q群：104716484<br>
 
 <img src="docs/images/readme-cardinal-ai.png" alt="Cardinal AI 可用于 3D 可交互内容生成的工作流展示" width="100%">
 
