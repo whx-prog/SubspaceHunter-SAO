@@ -76,6 +76,8 @@ https://www.bilibili.com/video/BV1mW421X7jg/<br>
 2.使用 Unity `2021.3.45f1` 打开<br>
 3.载资产Unitypackage包，链接: https://pan.baidu.com/s/15FRPMi91qJzsarMVTewV6g?pwd=bx4w 提取码: bx4w <br>
 4.将unitypackage导入项目<br>
+5.找到Assets/PublicDemo/PublicScenes/文件夹，下面包含多个样例场景
+6.All_Enemy中包含了所有敌人的演示，运行场景后可以直接看到说有敌人的战斗状态
 
 ## 由Hexin Wang 创立的SpatialXR社区提供免费的VR/MR开发教程
 
