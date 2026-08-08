@@ -105,7 +105,13 @@ https://www.bilibili.com/video/BV17KG46TEw2/
 - 不要提交 API Key、服务凭证、签名文件、私有数据库或其他敏感信息。
 - 国内项目交流Q群：303140187
 
+
 ## Star History
+
 <a href="https://www.star-history.com/?repos=whx-prog%2FSubspaceHunter-SAO&type=date&legend=top-left">
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left" />
-  </a>
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&theme=dark&legend=top-left&sealed_token=cwZuw0BCEdw3VCbbbV49oIpJcFGM6NrfWZHyAXmA3FaBcxAHPOPLSzrWOrS6VIsnsbU2qSkZZfGyo4PzAE1JxzWsKphnKG9f2R7zeNrHjJZNLkaSoBwzAn_y_TzheUScl4Q3A1ltsevEE0H-fhKU9VLf44GEK9Q7DoUCS0FTj0hJhr7OX541I8z-XMWR" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left&sealed_token=cwZuw0BCEdw3VCbbbV49oIpJcFGM6NrfWZHyAXmA3FaBcxAHPOPLSzrWOrS6VIsnsbU2qSkZZfGyo4PzAE1JxzWsKphnKG9f2R7zeNrHjJZNLkaSoBwzAn_y_TzheUScl4Q3A1ltsevEE0H-fhKU9VLf44GEK9Q7DoUCS0FTj0hJhr7OX541I8z-XMWR" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left&sealed_token=cwZuw0BCEdw3VCbbbV49oIpJcFGM6NrfWZHyAXmA3FaBcxAHPOPLSzrWOrS6VIsnsbU2qSkZZfGyo4PzAE1JxzWsKphnKG9f2R7zeNrHjJZNLkaSoBwzAn_y_TzheUScl4Q3A1ltsevEE0H-fhKU9VLf44GEK9Q7DoUCS0FTj0hJhr7OX541I8z-XMWR" />
+ </picture>
+</a>
