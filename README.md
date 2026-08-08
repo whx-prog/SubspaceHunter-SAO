@@ -107,6 +107,5 @@ https://www.bilibili.com/video/BV17KG46TEw2/
 
 ## Star History
 <a href="https://www.star-history.com/?repos=whx-prog%2FSubspaceHunter-SAO&type=date&legend=top-left">
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-
-   SAO&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=whx-prog/SubspaceHunter-SAO&type=date&legend=top-left" />
   </a>
