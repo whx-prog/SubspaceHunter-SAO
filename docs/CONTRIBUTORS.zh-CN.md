@@ -23,7 +23,7 @@
 - 是米西娅喵~/Misia/@Misia0721
 - 吾王夏娜/@wuwangxiana
 - 小鸟油菜花/benyoutop/@benyoutop
-
+- 懒惰/Axlltuy/@Hudsonr axlltuy
 
 
 ## 填写格式建议
